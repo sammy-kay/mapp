@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.redButton{
+ background:url(images/red.png) repeat !important;
+
+ color:#FFF !important;
+	
+	}
+
+.greenButton
+
+{
+	
+ background:url(images/green.png) repeat !important;
+ color:#FFF !important;
+
+}
